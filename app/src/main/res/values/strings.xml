@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Telegram</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="log_in">Log in</string>
+    <string name="have_not_registered_yet">Have you not registered yet</string>
+    <string name="exit">Exit</string>
+    <string name="register">Register</string>
+</resources>
